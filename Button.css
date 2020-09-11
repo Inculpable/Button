@@ -1,0 +1,21 @@
+/* you can change the properties of the button */
+.Button {
+    background-color:transparent;
+    border-radius:28px;
+    border:1px solid #f500c4;
+    display:inline-block;
+    cursor:pointer;
+    color:#ff00ff;
+    font-family:Arial;
+    font-size:17px;
+    padding:16px 31px;
+    text-decoration:none;
+    text-shadow:0px 1px 0px #000300;
+}
+.Button:hover {
+    background-color:transparent;
+}
+.Button:active {
+    position:relative;
+    top:1px;
+}
